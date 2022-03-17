@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcos Portes Jr, also Marpo.
 - 👀 I’m interested in computers, games and broa de fubá.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on open source community.
+- 💞️ I seek knowledge and new experiences!
 - 📫 How to reach me: @marpojr in socials.
 
 <!---
